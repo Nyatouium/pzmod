@@ -1,4 +1,4 @@
-## pzmod
+## pzmod (42Build updated)
 
 ![Project Banner showing usage example](/.github/banner.png?raw=true)
 
