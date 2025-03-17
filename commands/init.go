@@ -9,7 +9,6 @@ func Init(rootCmd *cobra.Command) {
 	rootCmd.AddCommand(cmdSet())
 	rootCmd.AddCommand(cmdCopyConfig())
 	rootCmd.AddCommand(cmdSetApiKey())
-	rootCmd.AddCommand(cmdUpdate())
 }
 
 func SetFileFlag(cmd *cobra.Command) {
